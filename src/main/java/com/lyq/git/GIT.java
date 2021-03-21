@@ -6,6 +6,7 @@ package com.lyq.git;
 */
     public class GIT {
         private String names;
+        private Integer age;
         private String ids;
         private String PID;
 }
