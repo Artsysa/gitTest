@@ -6,5 +6,5 @@ package com.lyq.git;
 */
     public class GIT {
         private String name;
-        private String id;
+        private String ids;
 }
